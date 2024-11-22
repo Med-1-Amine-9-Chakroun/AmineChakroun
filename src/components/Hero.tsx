@@ -26,7 +26,7 @@ export default function Hero() {
               Contact Me
             </a>
             <a
-              href="/CV_Chakroun_Mohamed_Amine.pdf"
+              href="cv/CV_Chakroun_Mohamed_Amine.pdf"
               download
               className="relative z-10 px-6 py-3 border-2 border-blue-600 text-white dark:text-purple-400 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-colors"
             >
@@ -49,7 +49,7 @@ export default function Hero() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="/CV_Chakroun_Mohamed_Amine.pdf"
+              href="cv/CV_Chakroun_Mohamed_Amine.pdf"
               download
               className="social-link"
             >
