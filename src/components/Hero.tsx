@@ -11,7 +11,7 @@ export default function Hero() {
         <div className="lg:w-1/2 lg:pr-12">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             <span className="relative z-10 bg-gradient-to-r from-blue-600 to-green-600 bg-clip-text text-transparent">
-              Hi, I'm Chakroum Mohamed Amine
+              Hi, I'm Chakroun Mohamed Amine
             </span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-900 dark:text-gray-300">
