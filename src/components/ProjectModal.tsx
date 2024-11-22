@@ -40,7 +40,7 @@ export default function ProjectModal({
       className="fixed inset-0 z-50 flex items-center justify-center bg-black/50"
       onClick={handleBackdropClick}
     >
-      <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg w-full max-w-7xl p-6 relative">
+      <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg w-full max-w-7xl p-6 relative max-h-screen overflow-y-auto">
         {/* Close Button */}
         <button
           onClick={onClose}
@@ -96,7 +96,6 @@ export default function ProjectModal({
             </div>
 
             {/* Right Section */}
-
             <div className="w-auto bg-gray-100 dark:bg-gray-700 rounded-xl p-4 flex-shrink-0 self-start">
               <div className="mb-6">
                 <h4 className="mb-3 font-semibold mb-1 text-gray-700 dark:text-gray-200">
