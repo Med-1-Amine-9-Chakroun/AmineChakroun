@@ -28,7 +28,7 @@ export const projects: Project[] = [
     images: [
       "images/Agtia/1Agtia.png",
       "images/Agtia/2Agtia.png",
-      "images/Agtia/3agtia.png",
+      "images/Agtia/3Agtia.png",
       "images/Agtia/4Agtia.png",
       "images/Agtia/5Agtia.png",
       "images/Agtia/6Agtia.png",
