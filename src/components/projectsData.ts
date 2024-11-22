@@ -24,11 +24,11 @@ export const projects: Project[] = [
     title: "Agtia",
     description:
       "AGTIA is a <span style='font-weight: bold;'>microservice-based</span> to-do app with task management, subtasks, and task insights.",
-    image: "images/Agtia/3Agtia.png",
+    image: "images/Agtia/3agtia.png",
     images: [
       "images/Agtia/1Agtia.png",
       "images/Agtia/2Agtia.png",
-      "images/Agtia/3Agtia.png",
+      "images/Agtia/3agtia.png",
       "images/Agtia/4Agtia.png",
       "images/Agtia/5Agtia.png",
       "images/Agtia/6Agtia.png",
