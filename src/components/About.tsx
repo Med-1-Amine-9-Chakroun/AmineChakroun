@@ -25,17 +25,18 @@ export default function About() {
             and mobile platforms using technologies such as React.js, Node.js,
             Python, and ReactNative. My expertise spans designing and
             implementing diverse software architectures to create scalable and
-            efficient applications. Alongside my professional development work.
+            efficient applications.
           </p>
-          <div className="py-2 bg-gray-50 dark:bg-gray-800 "></div>
+          <div className="py-1 bg-gray-50 dark:bg-gray-800 "></div>
 
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            I am also a private tutor in computer science, empowering high
-            school students to enhance their programming skills and academic
-            performance through personalized teaching approaches. This blend of
-            technical proficiency and educational mentorship underscores my
-            passion for creating impactful digital solutions and inspiring the
-            next generation of tech innovators.
+            Alongside my professional development work. I am also a private
+            tutor in computer science, empowering high school students to
+            enhance their programming skills and academic performance through
+            personalized teaching approaches. This blend of technical
+            proficiency and educational mentorship underscores my passion for
+            creating impactful digital solutions and inspiring the next
+            generation of tech innovators.
           </p>
         </div>
       </div>
