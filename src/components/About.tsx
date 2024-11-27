@@ -19,7 +19,7 @@ export default function About() {
         </h2>
 
         <div className="space-y-6 animate-fade-in">
-          <p className="text-lg text-gray-600 dark:text-gray-300">
+          <p className="text-lg text-gray-600 dark:text-gray-300 text-justify">
             Hello! I am Chakroun Mohamed Amine, a dedicated Full Stack Developer
             specializing in delivering innovative solutions across desktop, web,
             and mobile platforms using technologies such as React.js, Node.js,
@@ -29,7 +29,7 @@ export default function About() {
           </p>
           <div className="py-1 bg-gray-50 dark:bg-gray-800 "></div>
 
-          <p className="text-lg text-gray-600 dark:text-gray-300">
+          <p className="text-lg text-gray-600 dark:text-gray-300 text-justify">
             Alongside my professional development work. I am also a private
             tutor in computer science, empowering high school students to
             enhance their programming skills and academic performance through
