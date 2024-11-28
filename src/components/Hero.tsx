@@ -61,7 +61,7 @@ export default function Hero() {
           <div className="relative">
             <div className="relative z-10 w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4E03AQG2xQk9T8FfCg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715336699736?e=1737590400&v=beta&t=xEzdiO0_PXcvQrnMnB6FLfan4Ox_f7xwUWftO9oZuGs"
+                src="images/55554.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
